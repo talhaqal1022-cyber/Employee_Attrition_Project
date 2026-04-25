@@ -1,3 +1,5 @@
+[![Open In Colab]](https://colab.research.google.com/drive/1gZl8yVNgZOts-qBBJgUkHmTz3fbL6E2r?usp=sharing)
+
 # Employee Attrition Prediction using Machine Learning
 
 ##  Overview
